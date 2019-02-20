@@ -3,7 +3,8 @@
     background-color: #c0fff4;
     padding: 0px;
     width: 100%;
-    background-image: url(banner-beach1.png)
+    background-image: url(banner-beach1.png);
+    background-size:cover;
 }
 
 #nav { 
@@ -13,7 +14,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     position: relative;
-    background-image: url(img5.png)
+    background-image: url(img5.png);
 }
 
 #mainbody {
@@ -47,6 +48,7 @@
     height:190px;
     width: 100%;
     background-image: url(banner-beach-foot.jpg);
+    background-size:cover;
     position:relative;
     bottom:0;
     left:0;
